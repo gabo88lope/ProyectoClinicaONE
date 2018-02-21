@@ -10,6 +10,8 @@ Subproceso Bienvenido
 	
 	Borrar Pantalla;
 	
+	Escribir "Prueba";
+	
 FinSubProceso
 
 SubProceso Titulo
